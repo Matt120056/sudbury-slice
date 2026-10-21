@@ -1,4 +1,4 @@
-# Sudbury Slice
+# Sudbury Slice - Killer Zaaaa
 Owner: Matt Pheaton
 Course: CMP3321 Web Development I, Applied Activity 3
 
