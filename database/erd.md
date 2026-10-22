@@ -33,3 +33,4 @@ PTID gives every pizza-topping row its own unique identifier, so each row can be
 
 Leaving a written comment is optional. A customer can give just a star rating, so the Remark column has to be allowed to stay empty. 
  
+Note: tblPizzaTopping exists because people need their toppings 
