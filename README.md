@@ -10,5 +10,4 @@ Course: CMP3321 Web Development I, Applied Activity 3
 1. Pizza first.
 2. Commit second.
 3. Never commit the secret sauce.
-Phone: 9052514066 
-Database scripts: see database/04-queries.sql
+Phone: 9052514066
